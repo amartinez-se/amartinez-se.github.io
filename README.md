@@ -3,41 +3,53 @@
 ## Información de contacto
 
 - **Correo electrónico:** asiermartinezsanesteban@gmail.com
-- **Teléfono:** +34 628 70 70 89
-- **Dirección:** Calle Falsa 123, Madrid, España
 
 ## Resumen profesional
-
-Ingeniero de software con más de 5 años de experiencia en el desarrollo de aplicaciones web. Especializado en Python y JavaScript con un fuerte enfoque en la usabilidad y la optimización del rendimiento.
+Graduado en ingeniería en tecnologías industriales de 22 años de edad, con cerca de dos años de experiencia en entorno de I + D.
 
 ## Experiencia laboral
 
-### Ingeniero de Software Senior | Empresa XYZ, Madrid
-**Junio 2019 - Presente**
+### Técnico de proyectos y/o servicios | NAITEC, Pamplona
+**Septiembre 2023 - Presente**
 
-- Lideré un equipo de 5 ingenieros para desarrollar una aplicación web que aumentó la eficiencia del departamento de ventas en un 20%.
-- Implementé pruebas unitarias y de integración que redujeron los errores en producción en un 15%.
+- Doy soporte como consultor externo a Dana Automoción en su proyecto de certificación en eficiencia de sus ejes traseros para un importante cliente internacional. 
+- He implementado herramientas en Pythona creadas a medida para el tratamiento de datos en bruto provenientes de un banco de ensayo hasta la obtención de los resultados en el formato requerido por la Regulación aplicable.
 
-### Ingeniero de Software Junior | Empresa ABC, Barcelona
-**Enero 2016 - Mayo 2019**
+### Prácticas | NAITEC, Noain
+**Febrero 2023 - Agosto 2023**
 
-- Desarrollé características del frontend y del backend para una aplicación web de comercio electrónico.
-- Colaboré en la revisión de código y en la mejora de las prácticas de desarrollo del equipo.
+- Trabajé en movilidad autónoma con plataforma Pixkit realizando una integración de Autoware en ROS con dispositivos LiDAR, IMU 6 ejes y GPS RTK. 
+- Realizé mi proyecto fin de carrera en en diseño de una plataforma de código abierto en la que integré un dispositivo IoT (Arduino) mediante comunicación HTTP con Postman, y visualización de datos en Power BI. 
 
-## Educación
+## Estudios
 
-### Licenciatura en Ingeniería Informática
-**Universidad de Barcelona, 2012 - 2016**
-
-## Habilidades
-
-- Python
-- JavaScript
-- PostgreSQL
-- Git
-- Desarrollo de APIs REST
+### Especialista en Python
+**Universidad Internacional de Valencia, 2024**
+### Grado en Ingeniería en Tecnologías Industriales
+**Universidad Pública de Navarra, 2019 - 2023**
 
 ## Idiomas
 
 - Español (Nativo)
-- Inglés (Fluido)
+- Inglés (Certificado C1)
+
+## Habilidades
+
+- Python
+- PostgreSQL
+- Git
+- Fusion 360
+- CAD
+- Paquete Office
+
+## Soft skills
+
+- Proactividad
+- Organización
+- Trabajo en equipos internacionales
+- Orientación a resultados
+- Pasión por el trabajo bien hecho
+- Perfeccionismo
+- Mentalidad de mejora continua
+
+
